@@ -2,7 +2,22 @@ This is a list of the DH Slack's channels (aka chat rooms focused on specific to
 
 *Caveat:* the list below is updated manually, so may not include all current DH Slack channels.
 
+- [Regional channels](#regional-channels:)
+- [Posting stuff](#posting-stuff)
+- [Teaching DH](#teaching-dh)
+- [Learning-DH](#learning-dh)
+- [Visualization and Design](#visualization-and-design)
+- [Literature and text-focused](#literature-and-text-focused)
+- [Disciplinary-focused channels](#disciplinary-focused-channels)
+- [Code & data](#code-&-data)
+- [Meta-DH discussion](#meta-dh-discussion)
+- [Information concerns](#information-concerns)
+- [Meta stuff, fun stuff](#meta-stuff,-fun-stuff)
+- [Specific projects](#specific-projects)
+
 ----
+
+
 
 
 #Regional channels:
@@ -58,7 +73,7 @@ This is a list of the DH Slack's channels (aka chat rooms focused on specific to
   
 ----
 
-#Learning DH
+#Learning-DH
 
 * dhanswers
 
